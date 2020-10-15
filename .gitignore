@@ -1,0 +1,9 @@
+/data/*
+!/data/data.py
+/chinese_roberta_wwm_large_ext_pytorch/
+/output/
+.idea
+/cail2019-1-master/runs/
+/cail2019-1-master/output/
+/baseline.bak/data/
+/baseline.bak/output/
